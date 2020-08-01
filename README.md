@@ -7,8 +7,8 @@ Download chat from archived livestream on youtube
 3. `npm i`
 
 # Usage
-`$ ytchatdl <youtube-url> [start] [end] | tee chat.txt`
+`$ ytchatdl <youtube-url> [start] [end] | tee chat.csv`
 
 # Example 
 1. Download all chat
-`$ ytchatdl https://www.youtube.com/watch?v=AwMAwoS4cjX | tee chat.txt`
+`$ ytchatdl https://www.youtube.com/watch?v=AwMAwoS4cjX | tee chat.csv`
